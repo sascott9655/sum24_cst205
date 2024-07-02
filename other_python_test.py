@@ -1,0 +1,1 @@
+my_list = ["That's", 'what', 'friends', 'are', 'for']
